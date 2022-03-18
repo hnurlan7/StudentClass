@@ -1,0 +1,14 @@
+C:\Users\tu6f7xcr3\Desktop\asd\ExtentionMethods\ExtentionMethods\bin\Debug\netcoreapp3.1\ExtentionMethods.exe
+C:\Users\tu6f7xcr3\Desktop\asd\ExtentionMethods\ExtentionMethods\bin\Debug\netcoreapp3.1\ExtentionMethods.deps.json
+C:\Users\tu6f7xcr3\Desktop\asd\ExtentionMethods\ExtentionMethods\bin\Debug\netcoreapp3.1\ExtentionMethods.runtimeconfig.json
+C:\Users\tu6f7xcr3\Desktop\asd\ExtentionMethods\ExtentionMethods\bin\Debug\netcoreapp3.1\ExtentionMethods.runtimeconfig.dev.json
+C:\Users\tu6f7xcr3\Desktop\asd\ExtentionMethods\ExtentionMethods\bin\Debug\netcoreapp3.1\ExtentionMethods.dll
+C:\Users\tu6f7xcr3\Desktop\asd\ExtentionMethods\ExtentionMethods\bin\Debug\netcoreapp3.1\ExtentionMethods.pdb
+C:\Users\tu6f7xcr3\Desktop\asd\ExtentionMethods\ExtentionMethods\obj\Debug\netcoreapp3.1\ExtentionMethods.csproj.AssemblyReference.cache
+C:\Users\tu6f7xcr3\Desktop\asd\ExtentionMethods\ExtentionMethods\obj\Debug\netcoreapp3.1\ExtentionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu6f7xcr3\Desktop\asd\ExtentionMethods\ExtentionMethods\obj\Debug\netcoreapp3.1\ExtentionMethods.AssemblyInfoInputs.cache
+C:\Users\tu6f7xcr3\Desktop\asd\ExtentionMethods\ExtentionMethods\obj\Debug\netcoreapp3.1\ExtentionMethods.AssemblyInfo.cs
+C:\Users\tu6f7xcr3\Desktop\asd\ExtentionMethods\ExtentionMethods\obj\Debug\netcoreapp3.1\ExtentionMethods.csproj.CoreCompileInputs.cache
+C:\Users\tu6f7xcr3\Desktop\asd\ExtentionMethods\ExtentionMethods\obj\Debug\netcoreapp3.1\ExtentionMethods.dll
+C:\Users\tu6f7xcr3\Desktop\asd\ExtentionMethods\ExtentionMethods\obj\Debug\netcoreapp3.1\ExtentionMethods.pdb
+C:\Users\tu6f7xcr3\Desktop\asd\ExtentionMethods\ExtentionMethods\obj\Debug\netcoreapp3.1\ExtentionMethods.genruntimeconfig.cache
